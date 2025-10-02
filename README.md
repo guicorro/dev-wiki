@@ -11,6 +11,7 @@ docs/
 		ef-core.md
 		dependency-injection.md
 		design-patterns.md
+		architectures.md
 	angular/
 		cli-commands.md
 		components.md
@@ -40,6 +41,7 @@ README.md
 - [EF Core](docs/dotnet/ef-core.md)
 - [Inyección de Dependencias](docs/dotnet/dependency-injection.md)
 - [Patrones de Diseño](docs/dotnet/design-patterns.md)
+- [Arquitecturas .NET](docs/dotnet/architectures.md)
 
 > **Tip:** Las imágenes de cheatsheets se visualizan automáticamente en GitHub y VS Code si están en la misma carpeta que el archivo Markdown correspondiente. Puedes consultarlas directamente desde la web del repositorio.
 
