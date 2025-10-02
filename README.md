@@ -9,6 +9,8 @@ docs/
 	dotnet/
 		basics.md
 		ef-core.md
+		dependency-injection.md
+		design-patterns.md
 	angular/
 		cli-commands.md
 		components.md
@@ -36,6 +38,8 @@ README.md
 - [Tips de TypeScript](docs/typescript/tips.md)
 - [Angular CLI](docs/angular/cli-commands.md)
 - [EF Core](docs/dotnet/ef-core.md)
+- [Inyección de Dependencias](docs/dotnet/dependency-injection.md)
+- [Patrones de Diseño](docs/dotnet/design-patterns.md)
 
 > **Tip:** Las imágenes de cheatsheets se visualizan automáticamente en GitHub y VS Code si están en la misma carpeta que el archivo Markdown correspondiente. Puedes consultarlas directamente desde la web del repositorio.
 
