@@ -119,5 +119,3 @@ git reset --hard <commit-hash>
 ```
 
 ---
-
-Fuente: [sysxplore.com](https://sysxplore.com)

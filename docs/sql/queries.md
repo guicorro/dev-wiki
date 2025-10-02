@@ -114,5 +114,3 @@ COMMIT, ROLLBACK, SAVEPOINT, SET TRANSACTION
 - **Comparación**: =, <>, >, <, >=, <=
 
 ---
-
-Fuente: [sysxplore.com](https://sysxplore.com)

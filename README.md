@@ -26,12 +26,18 @@ README.md
 ## Navegación rápida
 
 - [Comandos de Git](docs/github/git-commands.md)
+
+  ![Git Cheatsheet](docs/github/git-cheatsheet.png)
+
 - [Cheatsheet SQL](docs/sql/queries.md)
+
+  ![SQL Cheatsheet](docs/sql/sql-cheatsheet.png)
+
 - [Tips de TypeScript](docs/typescript/tips.md)
 - [Angular CLI](docs/angular/cli-commands.md)
 - [EF Core](docs/dotnet/ef-core.md)
 
-> **Tip:** Si subes imágenes de cheatsheets (por ejemplo, `sql-cheatsheet.png` en la carpeta `docs/sql`), se mostrarán automáticamente en los archivos Markdown y en la vista de GitHub.
+> **Tip:** Las imágenes de cheatsheets se visualizan automáticamente en GitHub y VS Code si están en la misma carpeta que el archivo Markdown correspondiente. Puedes consultarlas directamente desde la web del repositorio.
 
 ---
 
