@@ -5,7 +5,10 @@ Repositorio de documentación técnica para desarrollos propios.
 Enlaces de interes:
 
 - DevOps Tools: https://github.com/techiescamp/devops-tools?tab=readme-ov-file
-- Rest API:  https://medium.com/@syedabdullahrahman/mastering-rest-api-design-essential-best-practices-dos-and-don-ts-for-2024-dd41a2c59133
+- Rest API:
+	- https://medium.com/@syedabdullahrahman/mastering-rest-api-design-essential-best-practices-dos-and-don-ts-for-2024-dd41a2c59133
+   	- https://github.com/saifaustcse/api-best-practices
+
 
 ## Estructura
 
